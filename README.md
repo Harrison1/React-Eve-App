@@ -3,4 +3,4 @@ http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongod
 
 React, Node.js, MongoDB, Mongoose, Gulp, Bower, and Browserify
 
-my heroku server is currently offline
+my heroku server for the app is currently offline
